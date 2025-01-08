@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=4BBB3D&random=false&width=500&lines=Prazer%2C+Leonardo+Ferreira.)](https://git.io/typing-svg)
 
-<p align="center">Graduado em Análise e Desenvolvimento de Sistemas na Unicesumar. Possuo experiência tanto com back-end quanto front-end, crio websites, APIs e sistemas utilizando as melhores formas de se desenvolver. Sou um amante de tecnologia, sempre estarei aprendendo algo novo e querendo colocar em prática onde eu puder. Também tenho experiencia com análise de dados com consultas e analises com SQL.
-Minhas principais linguagens são Javascript, Python e alguns frameworks de ambos como NodeJS, React JS e Flask.
-Minha meta é evoluir a cada desafio!
+<p align="center">Graduado em Análise e Desenvolvimento de Sistemas pela Unicesumar, atualmente exerço o cargo de Analista de Dados na TIM Brasil, unindo habilidades em tecnologia e análise para entregar soluções completas.
+Tenho experiência com SQL Avançado, Power BI, Looker, e desenvolvimento de sistemas, incluindo websites, APIs e aplicações com JavaScript, Python e frameworks como Node.js, React.js e Flask
+Minha meta é evoluir a cada desafio!</p>
   
 #
 
