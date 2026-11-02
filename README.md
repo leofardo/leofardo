@@ -45,15 +45,6 @@
 
 #
 
-<div align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=leofardo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=4BBB3D&text_color=FFF&border_radius=3&border_color=36123c&icon_color=4BBB3D" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofardo&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&title_color=4BBB3D&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760" alt="Most Used Languages">
-</div>
-
-#
-
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoftoutlook&logoColor=4BBB3D)](mailto:leonardoferreira1002@live.com)
