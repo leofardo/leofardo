@@ -1,15 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=4BBB3D&random=false&width=500&lines=Prazer%2C+Leonardo+Ferreira.)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=4BBB3D&center=true&vCenter=true&random=false&width=600&lines=Prazer%2C+Leonardo+Ferreira." alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   Engenheiro de Dados Sênior especializado em Google Cloud Platform, hoje na Accenture Song.<br>
   Construo pipelines do zero, da ingestão dos dados até a camada pronta para o negócio, e aplico IA generativa sobre dados (Text-to-SQL e RAG).<br>
   Pós-graduado em Data Analytics pela FIAP e graduado em Análise e Desenvolvimento de Sistemas pela UniCesumar.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/leonardoferreirar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Ferreira-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
 
 <h3 align="left">Stack</h3>
@@ -49,29 +45,27 @@
 
 #
 
-<div style="text-align: center;" align="center">
+<div align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leofardo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=4BBB3D&text_color=FFF&border_radius=3&border_color=36123c&icon_color=4BBB3D&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/leofardo/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leofardo&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=4BBB3D&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=leofardo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=4BBB3D&text_color=FFF&border_radius=3&border_color=36123c&icon_color=4BBB3D" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofardo&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&title_color=4BBB3D&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760" alt="Most Used Languages">
 </div>
 
-
 #
-
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=4BBB3D&color:FFF)](mailto:leonardoferreira1002@live.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4BBB3D&color:FFF)](https://www.linkedin.com/in/leonardoferreirar)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=4BBB3D&color:FFF)](https://www.instagram.com/leonardoferreirar_)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoftoutlook&logoColor=4BBB3D)](mailto:leonardoferreira1002@live.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4BBB3D)](https://www.linkedin.com/in/leonardoferreirar)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=4BBB3D)](https://www.instagram.com/leonardoferreirar_)
 
 #
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leofardo/leofardo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leofardo/leofardo/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leofardo/leofardo/output/github-contribution-grid-snake.svg">
-</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leofardo/leofardo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leofardo/leofardo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leofardo/leofardo/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
