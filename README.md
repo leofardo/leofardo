@@ -1,35 +1,51 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=4BBB3D&random=false&width=500&lines=Prazer%2C+Leonardo+Ferreira.)](https://git.io/typing-svg)
 
-<p align="center">Graduado em Análise e Desenvolvimento de Sistemas pela Unicesumar, atualmente exerço o cargo de Analista de Dados na TIM Brasil, unindo habilidades em tecnologia e análise para entregar soluções completas.
-Tenho experiência com SQL Avançado, Power BI, Looker, e desenvolvimento de sistemas, incluindo websites, APIs e aplicações com JavaScript, Python e frameworks como Node.js, React.js e Flask
-Minha meta é evoluir a cada desafio!</p>
-  
-#
+<p align="center">
+  Engenheiro de Dados Sênior especializado em Google Cloud Platform, hoje na Accenture Song.<br>
+  Construo pipelines do zero, da ingestão dos dados até a camada pronta para o negócio, e aplico IA generativa sobre dados (Text-to-SQL e RAG).<br>
+  Pós-graduado em Data Analytics pela FIAP e graduado em Análise e Desenvolvimento de Sistemas pela UniCesumar.
+</p>
 
-<h3 align="left">My Stack</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardoferreirar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Ferreira-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="8" 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="25" alt="nodesj logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="25" alt="gcp logo"  />
-  <img width="8" />
-</div>
+<h3 align="left">Stack</h3>
+
+<p align="left">
+  <b>Cloud & Data Warehouse</b><br>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</p>
+
+<p align="left">
+  <b>Engenharia de Dados</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Dataform-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Dataform" />
+  <img src="https://img.shields.io/badge/Pub%2FSub%20%7C%20Dataflow-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Pub/Sub e Dataflow" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+</p>
+
+<p align="left">
+  <b>IA aplicada</b><br>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat" alt="RAG" />
+  <img src="https://img.shields.io/badge/Text--to--SQL-6E40C9?style=flat" alt="Text-to-SQL" />
+</p>
+
+<p align="left">
+  <b>BI</b><br>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white" alt="Looker Studio" />
+</p>
 
 #
 
